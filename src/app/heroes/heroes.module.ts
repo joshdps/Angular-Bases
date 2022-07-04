@@ -4,7 +4,6 @@ import { ListadoComponent } from './listado/listado.component';
 import { HeroeComponent } from './heroe/heroe.component';
 
 
-
 @NgModule({
   declarations: [
     HeroeComponent,

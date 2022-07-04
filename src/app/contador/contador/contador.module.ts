@@ -3,7 +3,6 @@ import { CommonModule } from '@angular/common';
 import { ContadorComponent } from './contador.component';
 
 
-
 @NgModule({
   declarations: [
     ContadorComponent 
